@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp3.0\Messages Manager.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp3.0\Messages Manager.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp3.0\Messages Manager.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp3.0\Messages Manager.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp3.0\Messages Manager.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\bin\Debug\netcoreapp3.0\Messages Manager.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp3.0\Messages Manager.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp3.0\Messages Manager.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp3.0\Messages Manager.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp3.0\Messages Manager.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\09. Final Exam - 03 August 2019 Group 1\Messages Manager\obj\Debug\netcoreapp3.0\Messages Manager.pdb
