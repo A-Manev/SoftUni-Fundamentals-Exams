@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.0\01. Arriving in Kathmandu.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.0\01. Arriving in Kathmandu.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.0\01. Arriving in Kathmandu.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.0\01. Arriving in Kathmandu.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.0\01. Arriving in Kathmandu.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.0\01. Arriving in Kathmandu.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.0\01. Arriving in Kathmandu.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.0\01. Arriving in Kathmandu.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.0\01. Arriving in Kathmandu.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.0\01. Arriving in Kathmandu.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\04. Final Exam - 14 April 2019 Group I\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.0\01. Arriving in Kathmandu.pdb
