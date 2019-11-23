@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp3.0\02. Practice Sessions.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp3.0\02. Practice Sessions.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp3.0\02. Practice Sessions.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp3.0\02. Practice Sessions.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp3.0\02. Practice Sessions.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\bin\Debug\netcoreapp3.0\02. Practice Sessions.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp3.0\02. Practice Sessions.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp3.0\02. Practice Sessions.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp3.0\02. Practice Sessions.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp3.0\02. Practice Sessions.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\05. Final Exam - 14 April 2019 Group II\02. Practice Sessions\obj\Debug\netcoreapp3.0\02. Practice Sessions.pdb
