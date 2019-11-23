@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\bin\Debug\netcoreapp3.0\Battle Manager.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\bin\Debug\netcoreapp3.0\Battle Manager.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\bin\Debug\netcoreapp3.0\Battle Manager.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\bin\Debug\netcoreapp3.0\Battle Manager.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\bin\Debug\netcoreapp3.0\Battle Manager.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\bin\Debug\netcoreapp3.0\Battle Manager.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\obj\Debug\netcoreapp3.0\Battle Manager.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\obj\Debug\netcoreapp3.0\Battle Manager.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\obj\Debug\netcoreapp3.0\Battle Manager.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\obj\Debug\netcoreapp3.0\Battle Manager.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Battle Manager\obj\Debug\netcoreapp3.0\Battle Manager.pdb

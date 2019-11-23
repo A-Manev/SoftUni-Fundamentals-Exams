@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.0\Message Encrypter.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.0\Message Encrypter.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.0\Message Encrypter.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.0\Message Encrypter.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.0\Message Encrypter.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\bin\Debug\netcoreapp3.0\Message Encrypter.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.0\Message Encrypter.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.0\Message Encrypter.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.0\Message Encrypter.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.0\Message Encrypter.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\Message Encrypter\obj\Debug\netcoreapp3.0\Message Encrypter.pdb

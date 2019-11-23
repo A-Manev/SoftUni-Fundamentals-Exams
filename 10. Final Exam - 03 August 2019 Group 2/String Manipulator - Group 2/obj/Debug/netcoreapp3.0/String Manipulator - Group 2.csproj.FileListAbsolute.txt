@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\bin\Debug\netcoreapp3.0\String Manipulator - Group 2.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\10. Final Exam - 03 August 2019 Group 2\String Manipulator - Group 2\obj\Debug\netcoreapp3.0\String Manipulator - Group 2.pdb
