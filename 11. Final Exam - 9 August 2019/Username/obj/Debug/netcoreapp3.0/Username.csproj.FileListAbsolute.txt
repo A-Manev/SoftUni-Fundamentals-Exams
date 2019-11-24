@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\bin\Debug\netcoreapp3.0\Username.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\bin\Debug\netcoreapp3.0\Username.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\bin\Debug\netcoreapp3.0\Username.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\bin\Debug\netcoreapp3.0\Username.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\bin\Debug\netcoreapp3.0\Username.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\bin\Debug\netcoreapp3.0\Username.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\obj\Debug\netcoreapp3.0\Username.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\obj\Debug\netcoreapp3.0\Username.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\obj\Debug\netcoreapp3.0\Username.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\obj\Debug\netcoreapp3.0\Username.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\11. Final Exam - 9 August 2019\Username\obj\Debug\netcoreapp3.0\Username.pdb
