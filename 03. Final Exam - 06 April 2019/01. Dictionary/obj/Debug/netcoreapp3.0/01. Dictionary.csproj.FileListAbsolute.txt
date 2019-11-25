@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp3.0\01. Dictionary.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp3.0\01. Dictionary.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp3.0\01. Dictionary.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp3.0\01. Dictionary.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp3.0\01. Dictionary.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\bin\Debug\netcoreapp3.0\01. Dictionary.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp3.0\01. Dictionary.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp3.0\01. Dictionary.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp3.0\01. Dictionary.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp3.0\01. Dictionary.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\01. Dictionary\obj\Debug\netcoreapp3.0\01. Dictionary.csprojAssemblyReference.cache

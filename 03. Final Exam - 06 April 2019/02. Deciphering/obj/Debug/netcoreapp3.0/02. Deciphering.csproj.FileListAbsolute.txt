@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp3.0\02. Deciphering.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp3.0\02. Deciphering.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp3.0\02. Deciphering.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp3.0\02. Deciphering.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp3.0\02. Deciphering.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\bin\Debug\netcoreapp3.0\02. Deciphering.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp3.0\02. Deciphering.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp3.0\02. Deciphering.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp3.0\02. Deciphering.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp3.0\02. Deciphering.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\03. Final Exam - 06 April 2019\02. Deciphering\obj\Debug\netcoreapp3.0\02. Deciphering.pdb
