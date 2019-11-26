@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp3.0\02. Activation Keys.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp3.0\02. Activation Keys.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp3.0\02. Activation Keys.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp3.0\02. Activation Keys.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp3.0\02. Activation Keys.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\bin\Debug\netcoreapp3.0\02. Activation Keys.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp3.0\02. Activation Keys.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp3.0\02. Activation Keys.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp3.0\02. Activation Keys.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp3.0\02. Activation Keys.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\02. Activation Keys\obj\Debug\netcoreapp3.0\02. Activation Keys.pdb

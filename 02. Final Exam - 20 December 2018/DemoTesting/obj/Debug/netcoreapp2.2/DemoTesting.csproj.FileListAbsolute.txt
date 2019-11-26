@@ -1,0 +1,10 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\bin\Debug\netcoreapp2.2\DemoTesting.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\bin\Debug\netcoreapp2.2\DemoTesting.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\bin\Debug\netcoreapp2.2\DemoTesting.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\bin\Debug\netcoreapp2.2\DemoTesting.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\bin\Debug\netcoreapp2.2\DemoTesting.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\obj\Debug\netcoreapp2.2\DemoTesting.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\obj\Debug\netcoreapp2.2\DemoTesting.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\obj\Debug\netcoreapp2.2\DemoTesting.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\obj\Debug\netcoreapp2.2\DemoTesting.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\02. Final Exam - 20 December 2018\DemoTesting\obj\Debug\netcoreapp2.2\DemoTesting.pdb
