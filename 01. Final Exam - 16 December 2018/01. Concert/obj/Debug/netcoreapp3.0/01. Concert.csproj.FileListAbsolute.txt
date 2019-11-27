@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp3.0\01. Concert.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp3.0\01. Concert.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp3.0\01. Concert.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp3.0\01. Concert.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp3.0\01. Concert.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\bin\Debug\netcoreapp3.0\01. Concert.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp3.0\01. Concert.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp3.0\01. Concert.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp3.0\01. Concert.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp3.0\01. Concert.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\01. Final Exam - 16 December 2018\01. Concert\obj\Debug\netcoreapp3.0\01. Concert.pdb
