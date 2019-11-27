@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp3.0\02. Song Encryption.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp3.0\02. Song Encryption.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp3.0\02. Song Encryption.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp3.0\02. Song Encryption.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp3.0\02. Song Encryption.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\bin\Debug\netcoreapp3.0\02. Song Encryption.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp3.0\02. Song Encryption.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp3.0\02. Song Encryption.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp3.0\02. Song Encryption.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp3.0\02. Song Encryption.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\02. Song Encryption\obj\Debug\netcoreapp3.0\02. Song Encryption.pdb

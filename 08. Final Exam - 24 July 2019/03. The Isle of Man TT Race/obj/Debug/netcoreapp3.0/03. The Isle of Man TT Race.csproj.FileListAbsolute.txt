@@ -1,0 +1,11 @@
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.0\03. The Isle of Man TT Race.exe
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.0\03. The Isle of Man TT Race.deps.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.0\03. The Isle of Man TT Race.runtimeconfig.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.0\03. The Isle of Man TT Race.runtimeconfig.dev.json
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.0\03. The Isle of Man TT Race.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.0\03. The Isle of Man TT Race.pdb
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.0\03. The Isle of Man TT Race.csprojAssemblyReference.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.0\03. The Isle of Man TT Race.AssemblyInfoInputs.cache
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.0\03. The Isle of Man TT Race.AssemblyInfo.cs
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.0\03. The Isle of Man TT Race.dll
+D:\C# Fundamentals - септември 2019\Programming Fundamentals - Final Exams\08. Final Exam Preparation - 24 July 2019\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.0\03. The Isle of Man TT Race.pdb
